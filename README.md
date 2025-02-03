@@ -145,7 +145,11 @@ Tables were created in the following order based on their relationships:
 
 Data was imported into the tables from the prevously created .csv files using PostgreSQL import functionality.
 
-There was an issue where the number of characters required and datatypes for certain fields.  This was corrected using ALTER COLUMN. 
+There was an issue where the number of characters required and datatypes for certain fields.  This was corrected using ALTER COLUMN.
+
+### Data Display
+
+Each of the 4 tables were displayed using SELECT * statement.
 
     
 
